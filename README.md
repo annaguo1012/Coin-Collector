@@ -1,6 +1,5 @@
-Welcome to CSSI-Online
+Coin Collector
 ======================
+A timed coin collector game where you try to collect as many coins are you can
 
-This is the base template which already includes the `p5.js` library, the `p5.collide2d.js` library, and a connected `script.js`.
-
-Remember that if you need the collide library in your project, be sure to uncomment it in the `index.html`.
+Created at Google CSSI 2020
